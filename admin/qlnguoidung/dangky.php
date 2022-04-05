@@ -1,0 +1,1 @@
+<?php header("location:../ktnguoidung/index.php?action=dangky") ?>

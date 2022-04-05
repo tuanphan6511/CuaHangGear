@@ -1,0 +1,23 @@
+.card-header{
+    margin:auto;
+	text-align:center;
+}
+img{
+    display:block;
+    margin:auto;
+}
+body {
+    position: relative;
+  }
+
+div {
+    scroll-margin-top: 60px;
+    
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+
+
+
